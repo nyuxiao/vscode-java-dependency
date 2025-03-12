@@ -35,6 +35,7 @@
   "contributes.commands.java.view.package.renameFile": "重命名",
   "contributes.commands.java.view.package.moveFileToTrash": "删除",
   "contributes.commands.java.view.package.deleteFilePermanently": "永久删除",
+  "contributes.commands.java.view.fileExplorer.newPackage": "创建 Java 包...",
   "contributes.submenus.javaProject.new": "创建",
   "contributes.commands.java.view.menus.file.newJavaClass": "创建 Java 类",
   "configuration.java.dependency.showMembers": "在 Java 项目管理器中显示成员",
